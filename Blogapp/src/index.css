@@ -1,0 +1,23 @@
+body{
+  margin: 0px;
+}
+.MuiToolbar-root{
+  display: flex;
+  gap: 5px;
+}
+#root{
+  text-align: center;
+}
+
+.MuiTypography-root{
+  color: purple;
+}
+.Navbar{
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+#root{
+  background-color: #ede7f6;
+}
+
